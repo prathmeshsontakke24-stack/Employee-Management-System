@@ -215,7 +215,7 @@ Through this project, the following concepts were learned:
 
 **Prathamesh Sontakke**
 
-Java Developer | Computer Science Student
+Java Developer | Information Technology
 
 ---
 
